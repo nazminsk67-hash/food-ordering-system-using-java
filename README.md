@@ -1,1 +1,6 @@
 # food-ordering-system-using-java
+A Food Ordering System using Java is an application designed to simplify the process of ordering food from restaurants through a digital platform. The system allows customers to browse available food items, view prices and descriptions, place orders, and make payments online. It reduces the need for manual order taking and improves convenience for both customers and restaurant staff.
+
+The system includes modules such as user registration and login, menu management, order placement, and payment processing. Customers can select food items, add them to a cart, modify quantities, and confirm orders. On the admin or restaurant side, staff can add or update menu items, manage prices, view incoming orders, and update order status such as preparing, dispatched, or delivered.
+
+Java is used as the core programming language because of its object-oriented features, security, and platform independence. The application can be developed as a console-based system, desktop application (using Java Swing/JavaFX), or a web application (using Java Servlets, JSP, or Spring). Databases such as MySQL can be integrated to store user details, menu data, and order history, making the system reliable, scalable, and efficient for real-world use.
